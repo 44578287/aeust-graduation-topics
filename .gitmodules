@@ -1,0 +1,18 @@
+[submodule "addRandom/stm32-clion"]
+	path = addRandom/stm32-clion
+	url = https://github.com/44578287/addRandom.git
+[submodule "addRandom/stm32-keil"]
+	path = addRandom/stm32-keil
+	url = https://github.com/44578287/addRandom_keil.git
+[submodule "addRandom/pc-simulation"]
+	path = addRandom/pc-simulation
+	url = https://github.com/44578287/addRandom_PC_Simulation.git
+[submodule "guessNumber/stm32-clion"]
+	path = guessNumber/stm32-clion
+	url = https://github.com/44578287/guessNumber.git
+[submodule "guessNumber/stm32-keil"]
+	path = guessNumber/stm32-keil
+	url = https://github.com/44578287/guessNumber_keil.git
+[submodule "guessNumber/pc-simulation"]
+	path = guessNumber/pc-simulation
+	url = https://github.com/44578287/guessNumber_PC_Simulation.git
