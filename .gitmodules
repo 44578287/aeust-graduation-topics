@@ -16,3 +16,9 @@
 [submodule "guessNumber/pc-simulation"]
 	path = guessNumber/pc-simulation
 	url = https://github.com/44578287/guessNumber_PC_Simulation.git
+[submodule "gameConsole/pc-simulation"]
+	path = gameConsole/pc-simulation
+	url = https://github.com/44578287/gameConsole_PC_Simulation
+[submodule "gameConsole/stm32-clion"]
+	path = gameConsole/stm32-clion
+	url = https://github.com/44578287/gameConsole
